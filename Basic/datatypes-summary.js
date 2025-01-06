@@ -65,4 +65,12 @@ console.log(typeof null);
 
 
 
+//++++++++++++++++++++++++++++++++++++++++++++++++++
 
+
+//stack(primitive), Heap(Non Primitive)
+
+// let myYoutube = "100M"
+// let myYoutube = "100M"
+// let myYoutube = "100M"
+// let myYoutube = "100M"
